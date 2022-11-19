@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">EatItKotlinService</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_category">Category</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_food_list">Food List</string>
+    <string name="menu_order">Orders</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="your_name">Your name</string>
+    <string name="your_address">Your address</string>
+    <string name="popular_category">Popular Categories</string>
+    <string name="category_name">Category Name</string>
+    <string name="food_image">Food Image</string>
+    <string name="name_of_food">Name of food</string>
+    <string name="food_name">Food name</string>
+    <string name="food_price">Food price</string>
+    <string name="food_description">Food description</string>
+    <string name="sign_out">Sign out</string>
+    <string name="addon_size_name">Addon/Size name</string>
+    <string name="addon_size_price">Addon/Size Price</string>
+    <string name="create">Create</string>
+    <string name="edit">Edit</string>
+    <string name="size_name">Size name</string>
+    <string name="save">Save</string>
+    <string name="search">Search</string>
+    <string name="filter">Filter</string>
+    <string name="placed">Placed</string>
+    <string name="shipping">Shipping</string>
+    <string name="shipped">Shipped</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="update_order">Update order</string>
+    <string name="update_order_status">Update order status</string>
+    <string name="restore_placed">Restore placed</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="shipper">Shipper</string>
+</resources>

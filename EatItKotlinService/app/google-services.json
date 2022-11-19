@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "30611498786",
+    "firebase_url": "https://eatitkotlin-60ac5-default-rtdb.firebaseio.com",
+    "project_id": "eatitkotlin-60ac5",
+    "storage_bucket": "eatitkotlin-60ac5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30611498786:android:766944949b44c6cb7f677b",
+        "android_client_info": {
+          "package_name": "taipt4.kotlin.eatitkotlinservice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30611498786-ceglrbflpcaogo1ro7tgsp3gq84har6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Vdd942whVexJcPDwqO2sm19_f3Mq11c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30611498786-ceglrbflpcaogo1ro7tgsp3gq84har6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30611498786:android:887ffde4f918829d7f677b",
+        "android_client_info": {
+          "package_name": "taipt4.kotlin.eatitv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30611498786-ceglrbflpcaogo1ro7tgsp3gq84har6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6Vdd942whVexJcPDwqO2sm19_f3Mq11c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30611498786-ceglrbflpcaogo1ro7tgsp3gq84har6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

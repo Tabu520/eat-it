@@ -1,0 +1,2 @@
+rootProject.name = "EatItKotlinService"
+include ':app'
